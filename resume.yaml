@@ -4,11 +4,9 @@ contact:
     city: Granger
     state: IN
     country: USA
-
 profiles:
   network: GitHub
   url: https://github.com/nweiler
-
 experiences:
   - company: Aunalytics, Inc.
     position: Software Engineer, Data Science Platform
@@ -46,7 +44,6 @@ experiences:
       - Penetration Testing/Security Operations
         - Performed penetration tests on company applications (Burp scanner, Qualys WAS, Nessus)
         - Monitored company networks via intrusion detection system (Snort/Snorby)
-
   - company: Solo Cup Co.
     location: Lake Forest, IL
     start_date: November 2008
@@ -63,7 +60,6 @@ experiences:
         - Independently overhauled Growth Rebates analysis and review to improve forecasting and visibility
       - Software Implementation
         - Highly involved in testing and documentation of trade management software
-
   - company: U.S. Bank
     location: Milwaukee, WI
     start_date: August 2006 
@@ -71,7 +67,6 @@ experiences:
     position: Mutual Fund Trader, Trust Technology & Support Services
     summary: |
       - Placed billions in trades for in-house money market funds on our proprietary cash management system
-
 education:
   - degree: Master of Science, Software Engineering (4.0 GPA)
     institution: Loyola University Chicago
@@ -79,12 +74,10 @@ education:
     end_date: May 2013
     summary: |
       - Dijkstra Award for Overall Academic Excellence, May 2012
-
   - degree: Bachelor of Arts, Economics and Policy Studies
     institution: The University of Notre Dame
     start_date: August 2002
     end_date: May 2006
-
 hobbies:
   - name: Brazilian Jiu-Jitsu Purple Belt
   - name: Musician
