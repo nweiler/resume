@@ -1,0 +1,91 @@
+contact:
+  name: Nick Weiler
+  location:
+    city: Granger
+    state: IN
+    country: USA
+
+profiles:
+  network: GitHub
+  url: https://github.com/nweiler
+
+experiences:
+  - company: Aunalytics, Inc.
+    position: Software Engineer, Data Science Platform
+    location: South Bend, IN
+    start_date: February 2014
+    end_date: null
+    summary: |
+      - Designed and coded the administrator interface for our data science software platform
+      - Programmed multiple software utilities for data science investigations
+      - Organized and performed platform maintenance, upgrades, and troubleshooting
+      - Used internal and external tools to perform data cleaning, data linking, and analysis
+      - Conducted conference calls with clients to share findings
+  - company: Morningstar, Inc.
+    location: Chicago, IL
+    start_date: May 2012
+    end_date: January 2014
+    position: Applications Developer
+    summary: |
+      - Continuous Integration Engineering
+        - Designed, implemented and maintained multiple Jenkins CI environments
+        - Developed Puppet framework for automated configuration management
+        - Gained extensive experience with Jenkins, Puppet, and Linux system administration
+      - Release Management
+        - Performed frequent, zero-downtime, production releases for mission-critical systems
+        - Worked with development teams to create automated product deployment solutions
+  - company: Morningstar, Inc.
+    location: Chicago, IL
+    start_date: September 2011
+    end_date: May 2012
+    position: Information Security Intern
+    summary: |
+      - Security Analysis and Management
+        - Applied knowledge of web application vulnerabilities to assist in securing enterprise applications
+        - Gained knowledge of specific tools and techniques for hardening
+      - Penetration Testing/Security Operations
+        - Performed penetration tests on company applications (Burp scanner, Qualys WAS, Nessus)
+        - Monitored company networks via intrusion detection system (Snort/Snorby)
+
+  - company: Solo Cup Co.
+    location: Lake Forest, IL
+    start_date: November 2008
+    end_date: May 2011
+    position: Senior Rebate Analyst, Customer Finance
+    summary: |
+      - Database Development and Administration
+        - Designed and implemented multiple databases to improve speed and accuracy of accruals and reporting
+        - Improved customer claims processing via automation of data entry via Excel/Access integration
+        - Developed control report database to ensure accuracy and reliability of sales data
+      - Financial Analysis
+        - Personally responsible for millions of dollars of rebate accrual calculations each month
+        - Regularly presented findings to VP-level management and senior members of accounting group
+        - Independently overhauled Growth Rebates analysis and review to improve forecasting and visibility
+      - Software Implementation
+        - Highly involved in testing and documentation of trade management software
+
+  - company: U.S. Bank
+    location: Milwaukee, WI
+    start_date: August 2006 
+    end_date: September 2008
+    position: Mutual Fund Trader, Trust Technology & Support Services
+    summary: |
+      - Placed billions in trades for in-house money market funds on our proprietary cash management system
+
+education:
+  - degree: Master of Science, Software Engineering (4.0 GPA)
+    institution: Loyola University Chicago
+    start_date: August 2010
+    end_date: May 2013
+    summary: |
+      - Dijkstra Award for Overall Academic Excellence, May 2012
+
+  - degree: Bachelor of Arts, Economics and Policy Studies
+    institution: The University of Notre Dame
+    start_date: August 2002
+    end_date: May 2006
+
+hobbies:
+  - name: Brazilian Jiu-Jitsu Purple Belt
+  - name: Musician
+    details: Piano, Guitar, Digital Music
