@@ -1,5 +1,5 @@
 # Nick Weiler
-[GitHub](github.com/nweiler)
+[GitHub](https://github.com/nweiler)
 ---
 # Professional Experience          		  								
 
