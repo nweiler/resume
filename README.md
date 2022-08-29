@@ -1,10 +1,10 @@
 # Nick Weiler
 [GitHub](https://github.com/nweiler)
 ---
-# Professional Experience          		  								
+# Professional Experience
 
 ## Aunalytics, Inc.
-South Bend, IN							          
+South Bend, IN
 February 2014 - Present
 
 ### Software Engineer, Data Science Platform
@@ -74,7 +74,7 @@ August 2002 – May 2006
 ### Bachelor of Arts, Economics and Policy Studies
 - Minor in Music Theory
 
-# Honors, Skills, Activities										
+# Honors, Skills, Activities
 - Brazilian Jiu-Jitsu Purple Belt, Avid musician
 - Seven-Time Solo Strong Award Winner
 - Two-time U.S. Bank Excel Award winner - November 2006 and March 2007
